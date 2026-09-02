@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: py-secure-toolkit
+Version: 0.1.0
+Summary: Secure password, token, API key and OTP generators for Python
+Author: Your Name
+License: MIT
+Requires-Python: >=3.10
