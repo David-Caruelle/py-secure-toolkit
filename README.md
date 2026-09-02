@@ -125,4 +125,8 @@ If you find this project useful, consider giving it a ⭐ on GitHub.
 
 ---
 
+<<<<<<< HEAD
 **Py Secure Toolkit** — Python security utilities for authorized security development, research, and education.
+=======
+**Py Secure Toolkit** — Python security utilities for authorized security development, research, and education.
+>>>>>>> 9aa9e33 (Add my feature)

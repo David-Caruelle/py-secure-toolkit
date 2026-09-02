@@ -9,7 +9,7 @@ description = "Secure password, token, API key and OTP generators for Python"
 requires-python = ">=3.10"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name"}
+    {name = "David CARUELLE"}
 ]
 
 [project.scripts]
